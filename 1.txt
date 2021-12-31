@@ -1,0 +1,54 @@
+Blue 2개
+User Keywords (사용자 키워드) - blue
+new/delete Operator Functions (new/delete 연산자 함수) - blue
+
+SkyBlue : 7
+Class Templates (클래스 템플릿) - skyblue
+Member Operator Functions (멤버 연산자 함수) - skyblue
+Operator Functions (연산자 함수) - skyblue
+User Types (사용자 형식) - skyblue
+User Types (Generic Types) (사용자 형식 제네릭 형식) - skyblue
+User Types (Reference Types) (사용자 형식 참조 형식) - skyblue
+User Types (Value Types) (사용자 형식 값 형식) - skyblue
+
+Black : 9
+Events (이벤트) - black
+Fields (필드) - black
+Labels (레이블) - black
+Namespaces (네임스페이스) - black
+Properties (속성) - black
+Static Fields (정적 필드) - black
+User Defined Literals (Number) ( 사용자 정의 리터럴 숫자) - black
+User Defined Literals (Raw) (사용자 정의 리터럴 원시) - black
+Variables (변수) - black
+
+Brown : 4
+Function Templates (함수 템플릿) - brown
+Functions (함수) - brown
+Member Functions (멤버 함수) - brown
+Static Member Functions (정적 멤버 함수) - brown
+
+DarkGreen
+Enumerators (열거자) - dark green
+
+Purple : 2
+Keyword - Control (키워드 - 제어) - purple
+Macros (매크로) - purple
+
+Navy
+Local Variables (로컬 변수) - navy (사실상 검은색)
+
+약한 Purple
+String - Escape Character (이스케이프 문자) - 약한 purple
+
+Red
+String - Delimiter Character (구분 기호 문자) - red
+
+약한 Red
+User Defined Literals (String) (사용자 정의 리터럴 문자열) - 약한 red
+
+Grey
+Parameters (매개 변수) - grey
+
+그외
+Suggested Action (제안된 작업) - ..?

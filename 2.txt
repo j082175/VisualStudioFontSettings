@@ -1,0 +1,33 @@
+sum : 31
+
+User Keywords (사용자 키워드) - blue
+Class Templates (클래스 템플릿) - skyblue
+Enumerators (열거자) - dark green
+Events (이벤트) - black
+Fields (필드) - black
+Function Templates (함수 템플릿) - brown
+Functions (함수) - brown
+Keyword - Control (키워드 - 제어) - purple
+Labels (레이블) - black
+Local Variables (로컬 변수) - navy
+Macros (매크로) - purple
+Member Functions (멤버 함수) - brown
+Member Operator Functions (멤버 연산자 함수) - skyblue
+Namespaces (네임스페이스) - black
+new/delete Operator Functions (new/delete 연산자 함수) - blue
+Operator Functions (연산자 함수) - skyblue
+Parameters (매개 변수) - grey
+Properties (속성) - black
+Static Fields (정적 필드) - black
+Static Member Functions (정적 멤버 함수) - brown
+String - Delimiter Character (구분 기호 문자) - red
+String - Escape Character (이스케이프 문자) - 약한 purple
+Suggested Action (제안된 작업) - ..?
+User Defined Literals (Number) ( 사용자 정의 리터럴 숫자) - black
+User Defined Literals (Raw) (사용자 정의 리터럴 원시) - black
+User Defined Literals (String) (사용자 정의 리터럴 문자열) - 약한 red
+User Types (사용자 형식) - skyblue
+User Types (Generic Types) (사용자 형식 제네릭 형식) - skyblue
+User Types (Reference Types) (사용자 형식 참조 형식) - skyblue
+User Types (Value Types) (사용자 형식 값 형식) - skyblue
+Variables (변수) - black
